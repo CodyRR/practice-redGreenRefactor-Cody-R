@@ -1,0 +1,23 @@
+{
+  "name": "practice-redgreenrefactor-cody-r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodyRR/practice-redGreenRefactor-Cody-R.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodyRR/practice-redGreenRefactor-Cody-R/issues"
+  },
+  "homepage": "https://github.com/CodyRR/practice-redGreenRefactor-Cody-R#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
